@@ -34,7 +34,7 @@ uma visão padronizada desses dados."
 
 \_@ https://github.com/Perasinho
 
-\_@https://github.com/Gabriel%20SAG
+\_@https://github.com/GabrielSAG
 
 \_@ https://github.com/LilianeSecunha
 
