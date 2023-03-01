@@ -28,6 +28,9 @@ Acumulamos alguns conjuntos de dados e não conseguimos ter
 uma visão padronizada desses dados."
 
 
+# Apresentação:
+https://www.canva.com/design/DAFbQGoUn3Q/h2RKNu_n4y2FfKHxp8aBEw/view?utm_content=DAFbQGoUn3Q&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
 
 #  👥 A Squad
 \_@ https://github.com/AlvaroPoubel
